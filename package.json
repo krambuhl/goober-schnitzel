@@ -1,0 +1,26 @@
+{
+  "name": "goober-schnitzel",
+  "version": "1.0.0",
+  "description": "okay",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/goober-schnitzel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krambuhl/goober-schnitzel/issues"
+  },
+  "homepage": "https://github.com/krambuhl/goober-schnitzel#readme",
+  "dependencies": {
+    "next": "^2.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
